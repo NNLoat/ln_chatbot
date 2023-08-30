@@ -9,4 +9,11 @@
 6. จากนั้น กด Extract zip ไฟล์ project ไปที่ root folder ของโปรเจคที่สร้างในข้อ 4 เลือก overwrite ถ้าเกิด prompt จาก system
 7. ติดตั้ง dependencies โดย ```npm install```
 8. double click ที่ ไฟล์ running.bat จะมีสองหน้าต่างขึ้นมา firebase console และ ngrok
-9. 
+   <br>หน้าต่าง ngrok
+   ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/4115bebd-0c98-4ff9-a52d-c8b2fd8dc6c2)
+   หน้าต่าง Firebase console
+   ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/f06e3fae-11be-4167-9713-6f4f211387cb)
+
+   
+
+10. 
