@@ -1,4 +1,5 @@
 # ln_chatbot
+# Part 1 Setup
 
 ## การรัน project 
 1. ไปที่ Firebase Console (https://console.firebase.google.com) แล้วกดสร้าง project ใหม่ ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/7838defd-d6b0-4b9e-afe9-379504a2db11)
@@ -13,7 +14,4 @@
    ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/4115bebd-0c98-4ff9-a52d-c8b2fd8dc6c2)
    หน้าต่าง Firebase console
    ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/f06e3fae-11be-4167-9713-6f4f211387cb)
-
-   
-
-10. 
+10. ให้ทำการ copy URL ของ ngrok แล้วตามด้วย ```/```
