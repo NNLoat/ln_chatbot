@@ -14,4 +14,6 @@
    ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/4115bebd-0c98-4ff9-a52d-c8b2fd8dc6c2)
    หน้าต่าง Firebase console
    ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/f06e3fae-11be-4167-9713-6f4f211387cb)
-10. ให้ทำการ copy URL ของ ngrok แล้วตามด้วย ```/```
+10. ให้ทำการ copy URL ของ ngrok แล้วตามด้วย ```/test-bot-9e216/asia-southeast1/``` เช่นในตัวอย่างหน้าตา ngrok![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/015e3f30-89e5-4929-b31e-c2676899b2d1) <br>link ที่ต้องใช้ก็คือ ```https://1e4e-1-46-80-75.ngrok-free.app/test-bot-9e216/asia-southeast1/```
+11. 
+
