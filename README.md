@@ -23,5 +23,10 @@
 13.  เป็นอันเสร็จสิ้น การ set up line chatbot ครั้งแรก
 
 # การเปลี่ยนรอบคำถามที่ต้องเปลี่ยนทุกปี
-หากผู้ใช้ต้องการเปลี่ยนคำตอบสำหรับชุดคำถามที่ต้องเปลี่ยนทุกปี สามารถทำได้โดยเข้าไปที่เว็บไซต์ ```${public URL}/${ชื่อ project ที่สร้างใน firebase}/asia-southeast1/app/edit``` ซึ่งจะโชว์หน้าเว็บตามรูปภาพด้านล่าง
+หากผู้ใช้ต้องการเปลี่ยนคำตอบสำหรับชุดคำถามที่ต้องเปลี่ยนทุกปี สามารถทำได้โดยเข้าไปที่เว็บไซต์ ```${public URL}/${ชื่อ project ที่สร้างใน firebase}/asia-southeast1/app/edit```(ในตัวอย่างก็ ```https://1e4e-1-46-80-75.ngrok-free.app/test-bot-9e216/asia-southeast1/app/edit```)ซึ่งจะโชว์หน้าเว็บตามรูปภาพด้านล่าง ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/429ad222-923c-4cc8-94a5-f5d4381b465b) <br> หากต้องการที่จะแก้ไขชุดคำตอบ ให้แก้ไขข้อความใน textbox แล้ว กดปุ่ม "Save"![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/978736cd-c0d3-496e-a06f-0168aafe68a2)
+
+# การเปลี่ยนรอบคำถามตามเวลา (time-based response)
+หากผู้ใช้ต้องการจะเปลี่ยนคำตอบสำหรับชุดคำถามที่ตอบตามเวลาที่ถูกถาม สามารถทำได้โดยเข้าไปที่เว็บไซต์ ```${public URL}/${ชื่อ project ที่สร้างใน firebase}/asia-southeast1/app/edit```(ในตัวอย่างก็ ```https://1e4e-1-46-80-75.ngrok-free.app/test-bot-9e216/asia-southeast1/app/edit```) เลื่อนหน้าเว็บให้ลงมาถึงด้านล่าง จะเจอกับหัวข้อ ```ลิสต์คำตอบ link สมัครสอบของ ICT แต่ละรอบ ใส่วันที่แบบ (YYYY-MM-DD+'Z')``` ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/52b4831f-b36e-4b75-93e9-79d191aff27c) เทมเพลตของ ชุดคำตอบจะเป็น ```ชื่อรอบ,คำตอบของรอบนั้นๆ,วันที่เริ่มปล่อยคำตอบรอบนี้,วันที่สิ้นสุดคำตอบรอบนี้```![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/16894cfd-dd21-44f9-8932-153735787f70)
+
+
 
