@@ -14,7 +14,7 @@
    ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/4115bebd-0c98-4ff9-a52d-c8b2fd8dc6c2)
    หน้าต่าง Firebase console
    ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/f06e3fae-11be-4167-9713-6f4f211387cb)
-9. ให้ทำการ copy URL ของ ngrok แล้วตามด้วย ```/test-bot-9e216/asia-southeast1/app/editURL``` เช่นในตัวอย่างหน้าตา ngrok![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/015e3f30-89e5-4929-b31e-c2676899b2d1) <br>link ที่ต้องใช้ก็คือ ```https://1e4e-1-46-80-75.ngrok-free.app/test-bot-9e216/asia-southeast1/app/editURL``` นำ link นี้ไปใส่ที่ browser 
+9. ให้ทำการ copy URL ของ ngrok แล้วตามด้วย ```/${ชื่อ project ที่สร้างใน firebase}/asia-southeast1/app/editURL``` เช่นในตัวอย่างหน้าตา ngrok![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/015e3f30-89e5-4929-b31e-c2676899b2d1) <br>link ที่ต้องใช้ก็คือ ```https://1e4e-1-46-80-75.ngrok-free.app/test-bot-9e216/asia-southeast1/app/editURL``` นำ link นี้ไปใส่ที่ browser 
 10.  เมื่อเข้าไปได้จะเจอกับหน้าเว็บ สำหรับ edit cloud function<br>![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/2c8b4087-a647-4669-bb0d-d12c42aab4f6)
 <br> แล้ว paste URL ของ ngrok ในช่อง "แก้ Public URL ของ server" จากนั้นคลิก Save
 ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/5f74d63d-c94b-4ae2-a224-2df5b2a5b77b) <br>
@@ -22,5 +22,6 @@
 12.  เข้า ไปที่เว็บ Line developer console --> settings --> message API --> Webhook URL แล้ว นำ link จาก ngrok ที่ตามด้วย ```/test-bot-9e216/asia-southeast1/lineBot``` ในตัวอย่างก็คือ ```https://1e4e-1-46-80-75.ngrok-free.app/test-bot-9e216/asia-southeast1/lineBot``` <br> ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/82272333-8de7-4277-bf8d-7bb1089854bc) จากนั้นกด update
 13.  เป็นอันเสร็จสิ้น การ set up line chatbot ครั้งแรก
 
-14.  
+# การเปลี่ยนรอบคำถามที่ต้องเปลี่ยนทุกปี
+หากผู้ใช้ต้องการเปลี่ยนคำตอบสำหรับชุดคำถามที่ต้องเปลี่ยนทุกปี สามารถทำได้โดยเข้าไปที่เว็บไซต์ ```${public URL}/${ชื่อ project ที่สร้างใน firebase}/asia-southeast1/app/edit``` ซึ่งจะโชว์หน้าเว็บตามรูปภาพด้านล่าง
 
