@@ -36,7 +36,3 @@ Asset รูปภาพทั้งหมดจะอยู่ใน folder ```
 <br> สามารถเป็นไซส์ หรือ Aspect ratio อะไรก็ได้ แต่ไฟล์ห้ามเกิน 10 MB. <br><br> ```immap_regist_dst``` จะเป็น folder ที่เก็บรูปภาพ imagemap ของ route ```การรับสมัคร -> รายละเอียดการรับสมัคร -> รายละเอียดการสมัคร DST``` <br> Aspect ratio: 1:1 <br> size: 1024 x 1024 <br> สีที่ต่างกันในรูปภาพ เป็นพื้นที่สำหรับกดเลือก Choice ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/5ec27ed1-a46d-4177-802a-c30a25aca809) <br><br> ```immap_regist_ict``` จะเป็น folder ที่เก็บรูปภาพ imagemap ของ route ```การรับสมัคร -> รายละเอียดการรับสมัคร -> รายละเอียดการสมัคร ICT``` <br> Aspect ratio: 1:1 <br> size: 1024 x 1024 <br> สีที่ต่างกันในรูปภาพ เป็นพื้นที่สำหรับกดเลือก Choice ![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/d85d4e96-ebdd-4597-a18d-3a4f09477e04) <br><br> ```immap_registration```จะเป็น folder ที่เก็บรูปภาพ imagemap ของ route ```การรับสมัคร```<br> Aspect ratio: 1:1 <br> size: 1024 x 1024 <br> สีที่ต่างกันในรูปภาพ เป็นพื้นที่สำหรับกดเลือก Choice![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/0ab7b7df-334e-4a8a-accb-a84edfdb914d) <br><br>
 ```immap001```จะเป็น folder ที่เก็บรูปภาพ imagemap ของ route ```ข้อมูลหลักสูตร```<br> Aspect ratio: 1:1 <br> size: 1024 x 1024 <br> สีที่ต่างกันในรูปภาพ เป็นพื้นที่สำหรับกดเลือก Choice![image](https://github.com/NNLoat/ln_chatbot/assets/83104226/0ab7b7df-334e-4a8a-accb-a84edfdb914d) <br><br>
 
-# ตาราง Dialog Route
-
-
-
